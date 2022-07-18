@@ -1,0 +1,59 @@
+[
+  {
+    "activeDuration": 2346000,
+    "activityLevel": [
+      {
+        "minutes": 1,
+        "name": "sedentary"
+      },
+      {
+        "minutes": 6,
+        "name": "lightly"
+      },
+      {
+        "minutes": 12,
+        "name": "fairly"
+      },
+      {
+        "minutes": 20,
+        "name": "very"
+      }
+    ],
+    "activityName": "Run",
+    "activityTypeId": 90009,
+    "calories": 278,
+    "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2021-06-03/2021-06-03/1min/time/18:13/18:52.json",
+    "distance": 2.791959,
+    "distanceUnit": "Mile",
+    "duration": 2346000,
+    "hasActiveZoneMinutes": false,
+    "lastModified": "2021-06-03T16:52:48.000Z",
+    "logId": 40219914393,
+    "logType": "mobile_run",
+    "manualValuesSpecified": {
+      "calories": false,
+      "distance": false,
+      "steps": false
+    },
+    "originalDuration": 2346000,
+    "originalStartTime": "2021-06-03T18:13:39.000+02:00",
+    "pace": 840.2702188678272,
+    "source": {
+      "id": "228VSR",
+      "name": "Fitbit for Android",
+      "trackerFeatures": [
+        "GPS",
+        "STEPS",
+        "DISTANCE",
+        "CALORIES",
+        "PACE"
+      ],
+      "type": "app",
+      "url": "https://www.fitbit.com/android"
+    },
+    "speed": 4.284336061381074,
+    "startTime": "2021-06-03T18:13:39.000+02:00",
+    "steps": 3631,
+    "tcxLink": "https://api.fitbit.com/1/user/-/activities/40219914393.tcx"
+  }
+]
